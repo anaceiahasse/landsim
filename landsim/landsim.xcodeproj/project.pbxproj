@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BE62A27C19F7162900E82231 /* individual.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE62A27B19F7162900E82231 /* individual.cpp */; };
+		BE62A27E19F7163200E82231 /* simulator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE62A27D19F7163200E82231 /* simulator.cpp */; };
+		BE62A28019F7163B00E82231 /* landscape.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE62A27F19F7163B00E82231 /* landscape.cpp */; };
+		BE62A28919F71EB400E82231 /* landsim.tm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE62A28819F71EB400E82231 /* landsim.tm.cpp */; };
+		BE62A28C19F7202C00E82231 /* libWSTPi4.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BE62A28B19F7202C00E82231 /* libWSTPi4.a */; };
+		BE62A2A819F728BD00E82231 /* landsimmath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE62A2A719F728BD00E82231 /* landsimmath.cpp */; };
+		BE7439FD1A603BD80058DCB5 /* landsim in CopyFiles */ = {isa = PBXBuildFile; fileRef = BE4197D319F7156900B84C3C /* landsim */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		BE7439FC1A603ACD0058DCB5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstPath = /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim;
+			dstSubfolderSpec = 0;
+			files = (
+				BE7439FD1A603BD80058DCB5 /* landsim in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		BE4197D319F7156900B84C3C /* landsim */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = landsim; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE62A27B19F7162900E82231 /* individual.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = individual.cpp; sourceTree = "<group>"; };
+		BE62A27D19F7163200E82231 /* simulator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = simulator.cpp; sourceTree = "<group>"; };
+		BE62A27F19F7163B00E82231 /* landscape.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = landscape.cpp; sourceTree = "<group>"; };
+		BE62A28119F7171500E82231 /* individual.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = individual.h; sourceTree = "<group>"; };
+		BE62A28219F7171500E82231 /* landscape.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = landscape.h; sourceTree = "<group>"; };
+		BE62A28319F7171500E82231 /* simulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = simulator.h; sourceTree = "<group>"; };
+		BE62A28819F71EB400E82231 /* landsim.tm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = landsim.tm.cpp; sourceTree = "<group>"; };
+		BE62A28A19F71FEB00E82231 /* wstp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = wstp.h; path = "../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/wstp.h"; sourceTree = "<group>"; };
+		BE62A28B19F7202C00E82231 /* libWSTPi4.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libWSTPi4.a; path = "../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/libWSTPi4.a"; sourceTree = "<group>"; };
+		BE62A2A719F728BD00E82231 /* landsimmath.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = landsimmath.cpp; sourceTree = "<group>"; };
+		BE62A2F119F7AD4E00E82231 /* randomc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = randomc.h; path = randomc/randomc.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BE4197D019F7156900B84C3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE62A28C19F7202C00E82231 /* libWSTPi4.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BE4197CA19F7156900B84C3C = {
+			isa = PBXGroup;
+			children = (
+				BE4197D519F7156900B84C3C /* landsim */,
+				BE4197D419F7156900B84C3C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BE4197D419F7156900B84C3C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BE4197D319F7156900B84C3C /* landsim */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BE4197D519F7156900B84C3C /* landsim */ = {
+			isa = PBXGroup;
+			children = (
+				BE62A2A719F728BD00E82231 /* landsimmath.cpp */,
+				BE62A28B19F7202C00E82231 /* libWSTPi4.a */,
+				BE62A28A19F71FEB00E82231 /* wstp.h */,
+				BE62A28819F71EB400E82231 /* landsim.tm.cpp */,
+				BE62A28119F7171500E82231 /* individual.h */,
+				BE62A28219F7171500E82231 /* landscape.h */,
+				BE62A28319F7171500E82231 /* simulator.h */,
+				BE62A2F119F7AD4E00E82231 /* randomc.h */,
+				BE62A27F19F7163B00E82231 /* landscape.cpp */,
+				BE62A27D19F7163200E82231 /* simulator.cpp */,
+				BE62A27B19F7162900E82231 /* individual.cpp */,
+			);
+			path = landsim;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BE4197D219F7156900B84C3C /* landsim */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BE4197DA19F7156900B84C3C /* Build configuration list for PBXNativeTarget "landsim" */;
+			buildPhases = (
+				BE4197CF19F7156900B84C3C /* Sources */,
+				BE4197D019F7156900B84C3C /* Frameworks */,
+				BE7439FC1A603ACD0058DCB5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = landsim;
+			productName = landsim;
+			productReference = BE4197D319F7156900B84C3C /* landsim */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BE4197CB19F7156900B84C3C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Henrique Pereira";
+				TargetAttributes = {
+					BE4197D219F7156900B84C3C = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+				};
+			};
+			buildConfigurationList = BE4197CE19F7156900B84C3C /* Build configuration list for PBXProject "landsim" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BE4197CA19F7156900B84C3C;
+			productRefGroup = BE4197D419F7156900B84C3C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BE4197D219F7156900B84C3C /* landsim */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BE4197CF19F7156900B84C3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE62A27E19F7163200E82231 /* simulator.cpp in Sources */,
+				BE62A28019F7163B00E82231 /* landscape.cpp in Sources */,
+				BE62A2A819F728BD00E82231 /* landsimmath.cpp in Sources */,
+				BE62A27C19F7162900E82231 /* individual.cpp in Sources */,
+				BE62A28919F71EB400E82231 /* landsim.tm.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		BE4197D819F7156900B84C3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		BE4197D919F7156900B84C3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				"INSTALL_PATH[sdk=*]" = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		BE4197DB19F7156900B84C3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_APPS_DIR)/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions",
+				);
+				OTHER_LDFLAGS = (
+					"-lstdc++.6",
+					"-framework",
+					Foundation,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BE4197DC19F7156900B84C3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_APPS_DIR)/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions",
+				);
+				OTHER_LDFLAGS = (
+					"-lstdc++.6",
+					"-framework",
+					Foundation,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BE4197CE19F7156900B84C3C /* Build configuration list for PBXProject "landsim" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE4197D819F7156900B84C3C /* Debug */,
+				BE4197D919F7156900B84C3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BE4197DA19F7156900B84C3C /* Build configuration list for PBXNativeTarget "landsim" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE4197DB19F7156900B84C3C /* Debug */,
+				BE4197DC19F7156900B84C3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BE4197CB19F7156900B84C3C /* Project object */;
+}

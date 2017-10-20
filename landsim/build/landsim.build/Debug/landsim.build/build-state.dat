@@ -1,0 +1,1082 @@
+Tlandsim
+v7
+r0
+t457377144.188324
+cCheck dependencies
+cCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim.tm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim normal i386
+cPBXCp landsim/landsim build/Debug/landsim
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004C2399480000000000001E17
+t1277401416
+s7703
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/landsim
+t1435067384
+s3229588
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o
+t1435067364
+s148964
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o
+t1434447905
+s329304
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.LinkFileList
+c00000000557FF03100000000000002A7
+t1434447921
+s679
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o
+t1434447921
+s16252
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o
+t1434447921
+s138300
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o
+t1434447921
+s234740
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/libWSTPi4.a
+c00000000540F8CA90000000000C3A778
+t1410305193
+s12822392
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/wstp.h
+c00000000540F876500000000000442C5
+t1410303845
+s279237
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<sys/types.h>
+i<sys/types.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp
+c00000000558963F20000000000000FE4
+t1435067378
+s4068
+i"individual.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h
+c0000000054AFFC5B0000000000000340
+t1420819547
+s832
+i"landscape.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp
+c00000000557FF02100000000000034C9
+t1434447905
+s13513
+i<fstream>
+i<vector>
+i<numeric>
+i<deque>
+i"landscape.h"
+i"simulator.h"
+i"individual.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h
+c0000000054B940CC0000000000000737
+t1421426892
+s1847
+i<list>
+i"nrtypes.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim
+t1435162013
+s3225908
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim.tm.cpp
+c0000000054B966070000000000004D28
+t1421436423
+s19752
+i<Carbon/Carbon.h>
+i<mathlink/wstp.h>
+i"wstp.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp
+c0000000054B9660E0000000000000C13
+t1421436430
+s3091
+i"wstp.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h
+c000000004C3092C50000000000000B40
+t1278251717
+s2880
+i<complex>
+i<fstream>
+i"nrutil.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h
+c000000004C309CC300000000000025D7
+t1278254275
+s9687
+i<string>
+i<cmath>
+i<complex>
+i<iostream>
+i<valarray>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/randomc/mersenne.cpp
+c00000000493A46F0000000000000185F
+t1228556016
+s6239
+i"randomc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/randomc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/randomc/userintf.cpp
+c00000000493A46220000000000000AE4
+t1228555810
+s2788
+i<stdio.h>
+i<stdlib.h>
+i<conio.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp
+c0000000054B9A1B70000000000001B1F
+t1421451703
+s6943
+i<cstdlib>
+i<numeric>
+i<fstream>
+i<functional>
+i"simulator.h"
+i"randomc/mersenne.cpp"
+i"stocc/stoc1.cpp"
+i"randomc/userintf.cpp"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h
+c0000000054B957920000000000000FE1
+t1421432722
+s4065
+i<list>
+i"landscape.h"
+i"individual.h"
+i"randomc/randomc.h"
+i"stocc/stocc.h"
+i<time.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/stocc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/stocc/stoc1.cpp
+c00000000493A46BE0000000000007959
+t1228555966
+s31065
+i"stocc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/stocc/stocc.h
+c00000000523C18900000000000008023
+t1379670160
+s32803
+i<math.h>
+i"randomc.h"
+i"stocR.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim
+t1435684344
+s3229660
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o
+t1435343498
+s148980
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o
+t1435343498
+s329832
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.LinkFileList
+c00000000558C356100000000000002BB
+t1435252065
+s699
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o
+t1435252065
+s16268
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o
+t1435252065
+s138320
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o
+t1435684343
+s235084
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/libWSTPi4.a
+c00000000540F8CA90000000000C3A778
+t1410305193
+s12822392
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/wstp.h
+c00000000540F876500000000000442C5
+t1410303845
+s279237
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<sys/types.h>
+i<sys/types.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp
+c00000000558D7BE60000000000000FD4
+t1435335654
+s4052
+i"individual.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h
+c0000000054AFFC5A0000000000000340
+t1420819546
+s832
+i"landscape.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp
+c00000000558D7BE600000000000038AA
+t1435335654
+s14506
+i<fstream>
+i<vector>
+i<numeric>
+i<deque>
+i"landscape.h"
+i"simulator.h"
+i"individual.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h
+c0000000054B940CC0000000000000737
+t1421426892
+s1847
+i<list>
+i"nrtypes.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim
+t1435684344
+s3229660
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim.tm.cpp
+c00000000558C142E0000000000004D28
+t1435243566
+s19752
+i<Carbon/Carbon.h>
+i<mathlink/wstp.h>
+i"wstp.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp
+c0000000054B9660E0000000000000C13
+t1421436430
+s3091
+i"wstp.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h
+c000000004C3092C40000000000000B40
+t1278251716
+s2880
+i<complex>
+i<fstream>
+i"nrutil.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h
+c000000004C309CC200000000000025D7
+t1278254274
+s9687
+i<string>
+i<cmath>
+i<complex>
+i<iostream>
+i<valarray>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/randomc/mersenne.cpp
+c00000000493A46F0000000000000185F
+t1228556016
+s6239
+i"randomc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/randomc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/randomc/userintf.cpp
+c00000000493A46220000000000000AE4
+t1228555810
+s2788
+i<stdio.h>
+i<stdlib.h>
+i<conio.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp
+c000000005592CDF70000000000001D7B
+t1435684343
+s7547
+i<cstdlib>
+i<numeric>
+i<fstream>
+i<functional>
+i"simulator.h"
+i"randomc/mersenne.cpp"
+i"stocc/stoc1.cpp"
+i"randomc/userintf.cpp"
+i<sys/time.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h
+c0000000054B957920000000000000FE1
+t1421432722
+s4065
+i<list>
+i"landscape.h"
+i"individual.h"
+i"randomc/randomc.h"
+i"stocc/stocc.h"
+i<time.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/stocc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/stocc/stoc1.cpp
+c00000000493A46BE0000000000007959
+t1228555966
+s31065
+i"stocc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/stocc/stocc.h
+c00000000523C18900000000000008023
+t1379670160
+s32803
+i<math.h>
+i"randomc.h"
+i"stocR.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/Debug/landsim
+t1435684344
+s3229660
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o
+t1435343498
+s148980
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o
+t1435343498
+s329832
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.LinkFileList
+c00000000558C356100000000000002BB
+t1435252065
+s699
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o
+t1435252065
+s16268
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o
+t1435252065
+s138320
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o
+t1435684343
+s235084
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/libWSTPi4.a
+c00000000540F8CA90000000000C3A778
+t1410305193
+s12822392
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/wstp.h
+c00000000540F876500000000000442C5
+t1410303845
+s279237
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<sys/types.h>
+i<sys/types.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/individual.cpp
+c00000000558D7BE60000000000000FD4
+t1435335654
+s4052
+i"individual.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/individual.h
+c0000000054AFFC5A0000000000000340
+t1420819546
+s832
+i"landscape.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/landscape.cpp
+c00000000558D7BE600000000000038AA
+t1435335654
+s14506
+i<fstream>
+i<vector>
+i<numeric>
+i<deque>
+i"landscape.h"
+i"simulator.h"
+i"individual.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/landscape.h
+c0000000054B940CC0000000000000737
+t1421426892
+s1847
+i<list>
+i"nrtypes.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/landsim.tm.cpp
+c00000000558C142E0000000000004D28
+t1435243566
+s19752
+i<Carbon/Carbon.h>
+i<mathlink/wstp.h>
+i"wstp.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/landsimmath.cpp
+c0000000054B9660E0000000000000C13
+t1421436430
+s3091
+i"wstp.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/nrtypes.h
+c000000004C3092C40000000000000B40
+t1278251716
+s2880
+i<complex>
+i<fstream>
+i"nrutil.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/nrutil.h
+c000000004C309CC200000000000025D7
+t1278254274
+s9687
+i<string>
+i<cmath>
+i<complex>
+i<iostream>
+i<valarray>
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/randomc/mersenne.cpp
+c00000000493A46F0000000000000185F
+t1228556016
+s6239
+i"randomc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/randomc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/randomc/userintf.cpp
+c00000000493A46220000000000000AE4
+t1228555810
+s2788
+i<stdio.h>
+i<stdlib.h>
+i<conio.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/simulator.cpp
+c000000005592CDF70000000000001D7B
+t1435684343
+s7547
+i<cstdlib>
+i<numeric>
+i<fstream>
+i<functional>
+i"simulator.h"
+i"randomc/mersenne.cpp"
+i"stocc/stoc1.cpp"
+i"randomc/userintf.cpp"
+i<sys/time.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/simulator.h
+c0000000054B957920000000000000FE1
+t1421432722
+s4065
+i<list>
+i"landscape.h"
+i"individual.h"
+i"randomc/randomc.h"
+i"stocc/stocc.h"
+i<time.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/stocc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/stocc/stoc1.cpp
+c00000000493A46BE0000000000007959
+t1228555966
+s31065
+i"stocc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/stocc/stocc.h
+c00000000523C18900000000000008023
+t1379670160
+s32803
+i<math.h>
+i"randomc.h"
+i"stocR.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/Debug/landsim
+t1435684344
+s3229660
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o
+t1435343498
+s148980
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o
+t1435343498
+s329832
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.LinkFileList
+c00000000558C356100000000000002BB
+t1435252065
+s699
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o
+t1435252065
+s16268
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o
+t1435252065
+s138320
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o
+t1435684343
+s235084
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/libWSTPi4.a
+c00000000540F8CA90000000000C3A778
+t1410305193
+s12822392
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/../../../../../../../../Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions/wstp.h
+c00000000540F876500000000000442C5
+t1410303845
+s279237
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<windows.h>
+i<sys/types.h>
+i<sys/types.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/individual.cpp
+c00000000558D7BE60000000000000FD4
+t1435335654
+s4052
+i"individual.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/individual.h
+c0000000054AFFC5A0000000000000340
+t1420819546
+s832
+i"landscape.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/landscape.cpp
+c00000000558D7BE600000000000038AA
+t1435335654
+s14506
+i<fstream>
+i<vector>
+i<numeric>
+i<deque>
+i"landscape.h"
+i"simulator.h"
+i"individual.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/landscape.h
+c0000000054B940CC0000000000000737
+t1421426892
+s1847
+i<list>
+i"nrtypes.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/landsim.tm.cpp
+c00000000558C142E0000000000004D28
+t1435243566
+s19752
+i<Carbon/Carbon.h>
+i<mathlink/wstp.h>
+i"wstp.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/landsimmath.cpp
+c0000000054B9660E0000000000000C13
+t1421436430
+s3091
+i"wstp.h"
+i"simulator.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/nrtypes.h
+c000000004C3092C40000000000000B40
+t1278251716
+s2880
+i<complex>
+i<fstream>
+i"nrutil.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/nrutil.h
+c000000004C309CC200000000000025D7
+t1278254274
+s9687
+i<string>
+i<cmath>
+i<complex>
+i<iostream>
+i<valarray>
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/randomc/mersenne.cpp
+c00000000493A46F0000000000000185F
+t1228556016
+s6239
+i"randomc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/randomc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/randomc/userintf.cpp
+c00000000493A46220000000000000AE4
+t1228555810
+s2788
+i<stdio.h>
+i<stdlib.h>
+i<conio.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/simulator.cpp
+c000000005592CDF70000000000001D7B
+t1435684343
+s7547
+i<cstdlib>
+i<numeric>
+i<fstream>
+i<functional>
+i"simulator.h"
+i"randomc/mersenne.cpp"
+i"stocc/stoc1.cpp"
+i"randomc/userintf.cpp"
+i<sys/time.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/simulator.h
+c0000000054B957920000000000000FE1
+t1421432722
+s4065
+i<list>
+i"landscape.h"
+i"individual.h"
+i"randomc/randomc.h"
+i"stocc/stocc.h"
+i<time.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/stocc/randomc.h
+c000000004E1FE4B60000000000001DBC
+t1310713014
+s7612
+i<stdint.h>
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/stocc/stoc1.cpp
+c00000000493A46BE0000000000007959
+t1228555966
+s31065
+i"stocc.h"
+
+N/Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/stocc/stocc.h
+c00000000523C18900000000000008023
+t1379670160
+s32803
+i<math.h>
+i"randomc.h"
+i"stocR.h"
+
+N/Users/henrique/Documents/Research/Biodiversity/Landscape Model/landsim/landsim/landsim
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies457377143#457377143#0(153"[WARN]Mac OS X deployment target '10.9' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.1(22@146"Mac OS X deployment target '10.9' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.457377143#18446744073709551615#0#0(1@0"0(0#1#0"17228857088#0"0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s456760183.844524
+e456760183.853922
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760183#456760183#0(2880"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h:4,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp:2:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h:4,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp:2:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp: In function 'int iround(double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp:108: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp:109: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp:111: warning: implicit conversion shortens 64-bit value into a 32-bit value8(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#571#155#5(7@107"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760183#18446744073709551615#0#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#2#0#2#0#0"0(7@105"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h456760183#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h442512347#4#0#4#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456760183#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456760183#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456760183#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#1282#156#5(7@107"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760183#18446744073709551615#0#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#2#0#2#0#0"0(7@105"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h456760183#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h442512347#4#0#4#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456760183#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456760183#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456760183#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#1559#156#5(7@107"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760183#18446744073709551615#0#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#2#0#2#0#0"0(7@105"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h456760183#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h442512347#4#0#4#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456760183#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456760183#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456760183#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#1838#156#5(7@107"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760183#18446744073709551615#0#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#2#0#2#0#0"0(7@105"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h456760183#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h442512347#4#0#4#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456760183#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456760183#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456760183#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#2117#156#5(7@107"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760183#18446744073709551615#0#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#2#0#2#0#0"0(7@105"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h456760183#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.h442512347#4#0#4#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456760183#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456760183#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456760183#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#2394#162#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#108#0#108#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#2556#162#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#109#0#109#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456760183#2718#162#0(6@85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp456760178#111#0#111#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp17199338752#1583"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/individual.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s457036298.302717
+e457036298.705112
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h:4,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:2:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit value
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h:4,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:2:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp: In function 'int iround(double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:108: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:109: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:111: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF07#2@97"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457036298#457036298#0(2968"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h:4,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:2:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h:4,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:2:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp: In function 'int iround(double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:108: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:109: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp:111: warning: implicit conversion shortens 64-bit value into a 32-bit value8(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#591#159#5(7@111"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457036298#18446744073709551615#0#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#2#0#2#0#0"0(7@109"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h457036298#18446744073709551615#0#0(6@87"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h442512346#4#0#4#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#1326#160#5(7@111"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457036298#18446744073709551615#0#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#2#0#2#0#0"0(7@109"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h457036298#18446744073709551615#0#0(6@87"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h442512346#4#0#4#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#1611#160#5(7@111"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457036298#18446744073709551615#0#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#2#0#2#0#0"0(7@109"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h457036298#18446744073709551615#0#0(6@87"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h442512346#4#0#4#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#1898#160#5(7@111"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457036298#18446744073709551615#0#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#2#0#2#0#0"0(7@109"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h457036298#18446744073709551615#0#0(6@87"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h442512346#4#0#4#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#2185#160#5(7@111"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457036298#18446744073709551615#0#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#2#0#2#0#0"0(7@109"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h457036298#18446744073709551615#0#0(6@87"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.h442512346#4#0#4#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#2470#166#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#108#0#108#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#2636#166#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#109#0#109#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#2802#166#0(6@89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp457028454#111#0#111#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp4319178752#1627"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/individual.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o /Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/individual.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/individual.o /Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/individual.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s456140721.204027
+e456140721.206073
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140721#456140721#0(3190"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp: In member function 'bool TLandscape::ChooseStartingPointMode1(TCell&, TCell&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp:173: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp: In member function 'bool TLandscape::ChooseStartingPointMode2(TCell&, TCell&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp:204: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp: In member function 'TCell TLandscape::HomeRangeCenter(const THomeRange&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp:362: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp:362: warning: implicit conversion shortens 64-bit value into a 32-bit value9(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#461#155#4(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1062#156#4(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1339#156#4(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1618#156#4(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1897#156#4(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#2219#161#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#173#0#173#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#2546#161#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#204#0#204#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#2868#161#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#362#0#362#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#3029#161#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp456140705#362#0#362#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp4319178752#1581"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s457036298.297252
+e457036298.839205
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:5:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit value
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:5:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp: In member function 'bool TLandscape::ChooseStartingPointMode1(TCell&, TCell&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:173: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp: In member function 'bool TLandscape::ChooseStartingPointMode2(TCell&, TCell&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:204: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp: In member function 'TCell TLandscape::HomeRangeCenter(const THomeRange&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:400: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:400: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF07#2@96"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457036298#457036298#0(3282"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp: In member function 'bool TLandscape::ChooseStartingPointMode1(TCell&, TCell&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:173: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp: In member function 'bool TLandscape::ChooseStartingPointMode2(TCell&, TCell&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:204: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp: In member function 'TCell TLandscape::HomeRangeCenter(const THomeRange&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:400: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp:400: warning: implicit conversion shortens 64-bit value into a 32-bit value9(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#477#159#4(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457036298#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#1098#160#4(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457036298#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#1383#160#4(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457036298#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#1670#160#4(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457036298#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#1957#160#4(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457036298#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457036298#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457036298#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457036298#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#2287#165#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#173#0#173#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#2622#165#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#204#0#204#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#2952#165#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#400#0#400#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457036298#3117#165#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp457028454#400#0#400#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp17193451264#1625"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o /Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/landscape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landscape.o /Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/landscape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim.tm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s456140721.207051
+e456140721.257466
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim.tm.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim.tm.cpp456140721#456140721#0(0"0(0#0#85"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim.tm.cpp4319178752#1583"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim.tm.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim.tm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s456944865.084431
+e456944865.140554
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim.tm.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim.tm.cpp456944865#456944865#0(0"0(0#0#89"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim.tm.cpp4319178752#1627"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim.tm.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o /Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/landsim.tm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.tm.o /Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/landsim.tm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s456140721.206110
+e456140721.510538
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp:10:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit value
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp:10:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF07#2@94"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp456140721#456140721#0(2275"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp:10:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp:10:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value5(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#572#155#5(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp456140721#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1284#156#5(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp456140721#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1561#156#5(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp456140721#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1840#156#5(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp456140721#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#2119#156#5(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp456140721#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp4319178752#1585"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsimmath.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s456944865.083476
+e456944865.432802
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h:5,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp:10:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit value
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h:5,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp:10:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF07#2@98"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp456944865#456944865#0(2347"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp:10:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp:10:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value5(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456944865#592#159#5(7@112"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp456944865#18446744073709551615#0#0(6@90"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h456944865#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h456944865#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456944865#1328#160#5(7@112"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp456944865#18446744073709551615#0#0(6@90"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h456944865#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h456944865#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456944865#1613#160#5(7@112"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp456944865#18446744073709551615#0#0(6@90"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h456944865#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h456944865#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456944865#1900#160#5(7@112"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp456944865#18446744073709551615#0#0(6@90"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h456944865#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h456944865#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456944865#2187#160#5(7@112"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp456944865#18446744073709551615#0#0(6@90"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp443129230#10#0#10#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h456944865#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h456944865#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h456944865#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#90"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp4319178752#1629"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsimmath.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o /Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/landsimmath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsimmath.o /Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/landsimmath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s456140721.202119
+e456140721.608069
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp:5:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit value
+oIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,
+o                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp:5:
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(float, double)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(double, float)':
+o/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF07#2@92"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp456140721#456140721#0(2269"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value5(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#569#155#5(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp443144503#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1278#156#5(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp443144503#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1555#156#5(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp443144503#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#1834#156#5(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp443144503#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value456140721#2113#156#5(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp456140721#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp443144503#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.h443125522#5#0#5#0#0"0(7@104"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h456140721#18446744073709551615#0#0(6@82"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landscape.h443119692#6#0#6#0#0"0(7@102"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h456140721#18446744073709551615#0#0(6@80"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrtypes.h299944517#12#0#12#0#0"0(13@144"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h456140721#18446744073709551615#0#0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#0"0(6@79"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/nrutil.h299947075#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp17201836032#1581"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/simulator.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s457377143.343065
+e457377143.719467
+r1
+xCompileC
+xbuild/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#457377143#0(2341"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float SIGN(const double&, const float&)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:48: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h:12,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h:6,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h:5,                 from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp:5:/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:165: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float pow(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:167: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(float, double)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:169: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h: In function 'float atan2(double, float)':/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h:171: warning: implicit conversion shortens 64-bit value into a 32-bit value5(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457377143#589#159#5(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457377143#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457377143#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#48#0#48#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457377143#1322#160#5(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457377143#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457377143#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#165#0#165#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457377143#1607#160#5(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457377143#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457377143#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#167#0#167#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457377143#1894#160#5(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457377143#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457377143#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#169#0#169#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value457377143#2181#160#5(7@110"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#18446744073709551615#0#0(6@88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp457377143#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.h443125522#5#0#5#0#0"0(7@108"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h457377143#18446744073709551615#0#0(6@86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landscape.h443119692#6#0#6#0#0"0(7@106"In file included from /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h457377143#18446744073709551615#0#0(6@84"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrtypes.h299944516#12#0#12#0#0"0(13@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h457377143#18446744073709551615#0#0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#0"0(6@83"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/nrutil.h299947074#171#0#171#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#88"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp4319178752#1625"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility-inlines-hidden -mmacosx-version-min=10.9 -gdwarf-2 -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-generated-files.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-own-target-headers.hmap -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-all-target-headers.hmap -iquote /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/landsim-project-headers.hmap -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/include -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources/i386 -I/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/DerivedSources -c /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/simulator.cpp -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o0#
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o /Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/landsim/simulator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/landsim.build/Debug/landsim.build/Objects-normal/i386/simulator.o /Users/anaceiahasse/Desktop/Landscape_roads/landsim/landsim/simulator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/landsim normal i386
+s456760183.854067
+e456760184.246920
+r1
+xLd
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/landsim
+xnormal
+xi386
+lSLF07#2@87"Link /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/landsim456760183#456760184#0(0"0(0#0#0"4319178752#765"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug -L/Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug -filelist /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.LinkFileList -mmacosx-version-min=10.9 -lstdc++.6 -framework Foundation -lWSTPi4 -prebind -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/build/Debug/landsim0#
+
+CLd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim normal i386
+s457377143.720283
+e457377144.175895
+r1
+xLd
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim
+xnormal
+xi386
+lSLF07#2@91"Link /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim457377143#457377144#0(0"0(0#0#0"4319178752#785"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug -L/Applications/Mathematica.app/SystemFiles/Links/WSTP/DeveloperKit/MacOSX-x86-64/CompilerAdditions -F/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug -filelist /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/landsim.build/Debug/landsim.build/Objects-normal/i386/landsim.LinkFileList -mmacosx-version-min=10.9 -lstdc++.6 -framework Foundation -lWSTPi4 -prebind -o /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim0#
+
+CLd /Users/anaceiahasse/Desktop/Landscape_anims_sa1/landsim_ana/build/Debug/landsim normal i386
+r0
+
+CLd /Users/anaceiahasse/Desktop/Landscape_roads/landsim/build/Debug/landsim normal i386
+r0
+
+CPBXCp "/Users/henrique/Documents/Research/Biodiversity/Landscape Model/landsim/landsim/landsim" build/Debug/landsim
+r0
+
+CPBXCp /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim build/Debug/landsim
+s456854812.988218
+e456854813.010740
+r1
+xPBXCp
+x/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim/landsim
+xbuild/Debug/landsim
+lSLF07#2@24"Copy build/Debug/landsim456854812#456854813#0(0"0(0#0#86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim4319178752#394"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim/landsim0#
+
+CPBXCp /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim/landsim build/Debug/landsim
+r0
+
+CPBXCp landsim/landsim build/Debug/landsim
+s457377144.175955
+e457377144.188277
+r1
+xPBXCp
+xlandsim/landsim
+xbuild/Debug/landsim
+lSLF07#2@24"Copy build/Debug/landsim457377144#457377144#0(0"0(0#0#86"/Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim4319178752#398"    cd /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/build/Debug/landsim /Users/anaceiahasse/Desktop/Landscape/Landscape_roads1/landsim_ana/landsim0#
+
